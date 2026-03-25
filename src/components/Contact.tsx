@@ -21,7 +21,6 @@ export default function Contact() {
     >
       <Grid container spacing={6} alignItems="center" justifyContent="center">
 
-        {/* LEFT SIDE TEXT */}
         <Grid size={{ xs: 12, md: 5 }}>
           <Typography variant="h3" fontWeight="bold" mb={2}>
             Get in Touch 📞
