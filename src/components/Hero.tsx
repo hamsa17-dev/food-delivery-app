@@ -18,8 +18,6 @@ export default function Hero() {
       }}
     >
       <Grid container alignItems="center">
-
-        {/* LEFT TEXT */}
         <Grid size={{ xs: 12, md: 6 }}>
 
           {/* Heading */}
